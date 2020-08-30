@@ -1,0 +1,8 @@
+URL_MEMBERS = 'https://slack.com/api/conversations.members'
+URL_USER_INFO = 'https://slack.com/api/users.info'
+URL_HISTORY = 'https://slack.com/api/conversations.history'
+CONST_TOKEN = 'token'
+CONST_CHANNEL = 'channel'
+CONST_LIMIT = 'limit'
+CONST_OLDEST = 'oldest'
+CONST_LATEST = 'latest'
